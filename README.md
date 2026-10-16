@@ -1,2 +1,2 @@
-# Atelier: Canvas
-Inspired by Procreate but free to everyone
+# Canvas - Inspired by Procreate
+Part of the Atelier Suit 
